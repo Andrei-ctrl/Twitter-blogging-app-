@@ -1,0 +1,42 @@
+[
+    {
+        "userName": "Brock",
+        "nickname": "brock",
+        "text": "At its core, it is an alternative to the traditional lorem ipsum, which causes confusion among some people when trying to read the text of the fish. Unlike lorem ipsum, the text fish in Russian will fill any layout with an incomprehensible meaning and give a unique flavor of Soviet times.",
+        "postDate": "02.05.2011, 13:27",
+        "img": "https://fish-text.ru/images/logo.png",
+        "likes": 50
+    },
+    {
+        "userName": "Raamin",
+        "nickname": "raamin",
+        "text": "At its core, it is an alternative to the traditional lorem ipsum, which causes confusion among some people when trying to read the text of the fish. Unlike lorem ipsum, the text fish in Russian will fill any layout with an incomprehensible meaning and give a unique flavor of Soviet times.",
+        "postDate": "03.11.2012, 10:30",
+        "likes": 999
+    },
+    {
+        "userName": "Donald",
+        "nickname": "trampampam",
+        "text": "Registered on VK, good service and no bans",
+        "postDate": "02.05.2013, 13:27",
+        "img": "https://i2.wp.com/media.globalnews.ca/videostatic/news/vamt80qbaq-94ovmaxjqg/trumptwitterupdate.jpg?w=500&quality=70&strip=all",
+        "likes": 50
+        
+    }
+    ,
+    {
+        "userName": "Oleg Vasilievich",
+        "nickname": "vasil",
+        "text": "Where is the detonator?",
+        "postDate": "02.14.2014, 05:00",
+        "img": "https://www.meme-arsenal.com/memes/27606cb09d10f670389750cffb4d900d.jpg",
+        "likes": 666
+    },
+    {
+        "userName": "Raamin",
+        "nickname": "raamin",
+        "text": "At its core, it is an alternative to the traditional lorem ipsum, which causes confusion among some people when trying to read the text of the fish. Unlike lorem ipsum, the text fish in Russian will fill any layout with an incomprehensible meaning and give a unique flavor of Soviet times.",
+        "postDate": "03.11.2015, 10:30",
+        "likes": 999
+    }
+]
